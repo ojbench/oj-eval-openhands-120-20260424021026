@@ -1,0 +1,7 @@
+sample
+sample.cpp
+Task.hpp
+my_output.txt
+core.*
+*.o
+*.out
